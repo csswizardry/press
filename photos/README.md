@@ -3,7 +3,8 @@
 Unfortunately, decent photos of me are nigh-on non-existent. Here are a few
 that might be usable…
 
-* **[Informal, post-talk](https://github.com/csswizardry/press/blob/master/photos/front-trends-informal.jpg)**
-* **[On stage at Front-Trends](https://github.com/csswizardry/press/blob/master/photos/front-trends-rachel-andrew.jpg)** (credit: [Rachel Andrew](http://www.flickr.com/photos/rachelandrew/6978809052/))
-* **[Black and white](https://github.com/csswizardry/press/blob/master/photos/portrait-bw.jpg)**
-* **[Color](https://github.com/csswizardry/press/blob/master/photos/portrait-color.jpg)**
+## Credits
+
+* Rachel Andrew: [flickr.com/photos/rachelandrew/6978809052/](http://www.flickr.com/photos/rachelandrew/6978809052/)
+* Suzanna Haworth: [flickr.com/photos/suzannahaworth/4281699291/](http://www.flickr.com/photos/suzannahaworth/4281699291/)
+* Ashley Baxter: [flickr.com/photos/rockersdelight/8681529064/](http://www.flickr.com/photos/rockersdelight/8681529064/)
