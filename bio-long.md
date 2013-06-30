@@ -4,7 +4,7 @@ Use this bio for profiles at conferences etc.
 
 ## Text version
 
-> Harry is a 22 year old designer, developer, writer, speaker and <b>front-end
+> Harry is a 23 year old designer, developer, writer, speaker and <b>front-end
 > architect</b> from the UK—he currently works as <b>Senior UI Developer</b> for
 > <b>BSkyB</b>. He Tweets at [@csswizardry](http://twitter.com/csswizardry).
 > 
@@ -16,7 +16,7 @@ Use this bio for profiles at conferences etc.
 
 ## HTML version
 
-<pre><code>&lt;p&gt;Harry is a 22 year old designer, developer, writer, speaker
+<pre><code>&lt;p&gt;Harry is a 23 year old designer, developer, writer, speaker
 and &lt;b&gt;front-end architect&lt;/b&gt; from the UK—he currently works as
 &lt;b&gt;Senior UI Developer&lt;/b&gt; for &lt;b&gt;BSkyB&lt;/b&gt;. He Tweets
 at &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.&lt;/p&gt;
