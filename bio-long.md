@@ -4,9 +4,10 @@ Use this bio for profiles at conferences etc.
 
 ## Text version
 
-> Harry is a 23 year old designer, developer, writer, speaker and <b>front-end
-> architect</b> from the UK—he currently works as <b>Senior UI Developer</b> for
-> <b>BSkyB</b>. He Tweets at [@csswizardry](http://twitter.com/csswizardry).
+> Harry is a Consultant Front-end Architect, designer, developer, writer and
+> speaker from the UK—previously a <b>Senior Developer</b> at <b>BSkyB</b>, he
+> now helps tech teams all over the world in building better front-ends. He
+> Tweets at [@csswizardry](http://twitter.com/csswizardry).
 > 
 > He specialises in authoring and scaling massive front-ends. He writes on the
 > subjects of maintainability, architecture, performance, OOCSS and more at
@@ -16,10 +17,11 @@ Use this bio for profiles at conferences etc.
 
 ## HTML version
 
-<pre><code>&lt;p&gt;Harry is a 23 year old designer, developer, writer, speaker
-and &lt;b&gt;front-end architect&lt;/b&gt; from the UK—he currently works as
-&lt;b&gt;Senior UI Developer&lt;/b&gt; for &lt;b&gt;BSkyB&lt;/b&gt;. He Tweets
-at &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.&lt;/p&gt;
+<pre><code>&lt;p&gt;Harry is a Consultant Front-end Architect, designer,
+developer, writer and speaker from the UK—previously a &lt;b&gt;Senior
+Developer&lt;/b&gt; at &lt;b&gt;BSkyB&lt;/b&gt;, he now helps tech teams all
+over the world in building better front-ends. He Tweets at
+&lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;He specialises in authoring and scaling massive front-ends. He writes
 on the subjects of maintainability, architecture, performance, OOCSS and more at
