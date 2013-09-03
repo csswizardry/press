@@ -2,5 +2,5 @@
 
 This bio is mainly for Twitter and suchlike:
 
-> 23 years old • Front-end Architect • Senior UI Developer at BSkyB • Writer •
-> Speaker • http://hry.rbrts.me  • Lead developer of @inuitcss
+> Consultant Front-end Architect • Writer • Speaker • Previously Senior
+> Developer at BSkyB • Available from November, 2013.
