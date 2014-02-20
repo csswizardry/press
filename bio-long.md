@@ -11,7 +11,7 @@ Use this bio for profiles at conferences etc.
 > He specialises in authoring and scaling large front-ends; he writes on the
 > subjects of maintainability, architecture, performance, OOCSS and more at
 > [csswizardry.com](http://csswizardry.com); he is the lead and sole developer
-> of [inuit.css](http://inuitcss.com), a powerful, scalable, Sass-based, BEM,
+> of [inuitcss](http://inuitcss.com), a powerful, scalable, Sass-based, BEM,
 > OOCSS framework; he Tweets at [@csswizardry](http://twitter.com/csswizardry).
 
 ## HTML version
@@ -26,7 +26,7 @@ Use this bio for profiles at conferences etc.
 &lt;p&gt;He specialises in authoring and scaling large front-ends; he writes on
     the subjects of maintainability, architecture, performance, OOCSS and more
     at &lt;a href=&quot;http://csswizardry.com&quot;&gt;csswizardry.com&lt;/a&gt;;
-    he is the lead and sole developer of &lt;a href=&quot;http://inuitcss.com&quot;&gt;inuit.css&lt;/a&gt;,
+    he is the lead and sole developer of &lt;a href=&quot;http://inuitcss.com&quot;&gt;inuitcss&lt;/a&gt;,
     a powerful, scalable, Sass-based, BEM, OOCSS framework; he Tweets at
     &lt;a href=&quot;http://twitter.com/csswizardry&quot;&gt;@csswizardry&lt;/a&gt;.
 &lt;/p&gt;</code></pre>
