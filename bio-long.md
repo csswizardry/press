@@ -8,11 +8,11 @@ Use this bio for profiles at conferences etc.
 > writer, and speaker from the UK. Previously a <b>Senior Developer</b> at
 > <b>BSkyB</b>, he now helps teams all over the world build better products.
 > 
-> He specialises in authoring and scaling large front-ends; he writes on the
+> He specialises in authoring and scaling product-scale UIs; he writes on the
 > subjects of maintainability, architecture, performance, and more at
-> [csswizardry.com](http://csswizardry.com); he is the lead and sole developer
-> of [inuitcss](http://inuitcss.com), a powerful, scalable, Sass-based, BEM,
-> OOCSS framework; he Tweets at [@csswizardry](http://twitter.com/csswizardry).
+> [csswizardry.com](http://csswizardry.com); he is the lead developer of
+> [inuitcss](http://inuitcss.com), a powerful, scalable, Sass-based, BEM, OOCSS
+> framework; he Tweets at [@csswizardry](http://twitter.com/csswizardry).
 
 ## HTML version
 
@@ -24,11 +24,11 @@ Use this bio for profiles at conferences etc.
 &lt;/p&gt;
 
 &lt;p&gt;
-    He specialises in authoring and scaling large front-ends; he writes on the
+    He specialises in authoring and scaling product-scale UIs; he writes on the
     subjects of maintainability, architecture, performance, and more at
     &lt;a href="http://csswizardry.com"&gt;csswizardry.com&lt;/a&gt;; he is the
-    lead and sole developer of &lt;a href="http://inuitcss.com"&gt;inuitcss&lt;/a&gt;,
-    a powerful, scalable, Sass-based, BEM, OOCSS framework; he Tweets at
+    lead developer of &lt;a href="http://inuitcss.com"&gt;inuitcss&lt;/a&gt;, a
+    powerful, scalable, Sass-based, BEM, OOCSS framework; he Tweets at
     &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.
 &lt;/p&gt;
 </code></pre>
