@@ -4,33 +4,32 @@ Use this bio for profiles at conferences etc.
 
 ## Text version
 
-> Harry is an award-winning Consultant Front-end Architect, designer, developer,
-> writer, and speaker from the UK. Previously a <b>Senior Developer</b> at
-> <b>BSkyB</b>, he now helps teams all over the world build better products.
-> 
-> He specialises in authoring and scaling product-scale UIs; he writes on the
-> subjects of maintainability, architecture, performance, and more at
-> [csswizardry.com](http://csswizardry.com); he is the lead developer of
-> [inuitcss](http://inuitcss.com), a powerful, scalable, Sass-based, BEM, OOCSS
-> framework; he Tweets at [@csswizardry](http://twitter.com/csswizardry).
+> With a client list including **Google**, the **United Nations**, and
+> **Unilever**, Harry is an award-winning Consultant Front-end Architect who
+> helps organisations and teams across the globe to plan, build, and maintain
+> product-scale UIs.
+>
+> He writes on the subjects of CSS architecture, performance, and scalability
+> at [csswizardry.com](http://csswizardry.com); develops and maintains
+> [inuitcss](https://github.com/inuitcss); authored [CSS
+> Guidelines](http://cssguidenlin.es); and Tweets at
+> [@csswizardry](http://twitter.com/csswizardry).
 
 ## HTML version
 
 <pre><code>&lt;p&gt;
-    Harry is an award-winning Consultant Front-end Architect, designer,
-    developer, writer, and speaker from the UK. Previously a &lt;b&gt;Senior
-    Developer&lt;/b&gt; at &lt;b&gt;BSkyB&lt;/b&gt;, he now helps teams all over
-    the world build better products.
+  With a client list including &lt;b&gt;Google&lt;/b&gt;, the &lt;b&gt;United
+  Nations&lt;/b&gt;, and &lt;b&gt;Unilever&lt;/b&gt;, Harry is an award-winning
+  Consultant Front-end Architect who helps organisations and teams across the
+  globe to plan, build, and maintain product-scale UIs.
 &lt;/p&gt;
 
 &lt;p&gt;
-    He specialises in authoring and scaling product-scale UIs; he writes on the
-    subjects of maintainability, architecture, performance, and more at
-    &lt;a href="http://csswizardry.com"&gt;csswizardry.com&lt;/a&gt;; he is the
-    lead developer of &lt;a href="http://inuitcss.com"&gt;inuitcss&lt;/a&gt;, a
-    powerful, scalable, Sass-based, BEM, OOCSS framework; he Tweets at
-    &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.
-&lt;/p&gt;
-</code></pre>
+  He writes on the subjects of CSS architecture, performance, and scalability at
+  &lt;a href="http://csswizardry.com"&gt;csswizardry.com&lt;/a&gt;; develops and
+  maintains &lt;a href="https://github.com/inuitcss"&gt;inuitcss&lt;/a&gt;;
+  authored &lt;a href="http://cssguidenlin.es"&gt;CSS Guidelines&lt;/a&gt;; and
+  Tweets at &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.
+&lt;/p&gt;</code></pre>
 
 
