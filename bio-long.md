@@ -12,7 +12,7 @@ Use this bio for profiles at conferences etc.
 > He writes on the subjects of CSS architecture, performance, and scalability
 > at [csswizardry.com](http://csswizardry.com); develops and maintains
 > [inuitcss](https://github.com/inuitcss); authored [CSS
-> Guidelines](http://cssguidenlin.es); and Tweets at
+> Guidelines](http://cssguidelin.es); and Tweets at
 > [@csswizardry](http://twitter.com/csswizardry).
 
 ## HTML version
@@ -28,6 +28,6 @@ Use this bio for profiles at conferences etc.
   He writes on the subjects of CSS architecture, performance, and scalability at
   &lt;a href="http://csswizardry.com"&gt;csswizardry.com&lt;/a&gt;; develops and maintains
   &lt;a href="https://github.com/inuitcss"&gt;inuitcss&lt;/a&gt;; authored
-  &lt;a href="http://cssguidenlin.es"&gt;CSS Guidelines&lt;/a&gt;; and Tweets at
+  &lt;a href="http://cssguidelin.es"&gt;CSS Guidelines&lt;/a&gt;; and Tweets at
   &lt;a href="http://twitter.com/csswizardry"&gt;@csswizardry&lt;/a&gt;.
 &lt;/p&gt;</code></pre>
