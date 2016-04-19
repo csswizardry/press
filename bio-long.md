@@ -4,9 +4,9 @@ Use this bio for profiles at conferences etc.
 
 ## Text version
 
-> With a client list including **Google**, the **United Nations**, and
-> **Unilever**, Harry is an award-winning Consultant Front-end Architect who
-> helps organisations and teams across the globe to plan, build, and maintain
+> With a client list including **Google**, **Unilever**, and the **United
+> Nations**, Harry is an award-winning Consultant Front-end Architect who helps
+> organisations and teams across the globe to plan, build, and maintain
 > product-scale UIs.
 >
 > He writes on the subjects of CSS architecture, performance, and scalability
@@ -18,10 +18,10 @@ Use this bio for profiles at conferences etc.
 ## HTML version
 
 <pre><code>&lt;p&gt;
-  With a client list including &lt;b&gt;Google&lt;/b&gt;, the &lt;b&gt;United Nations&lt;/b&gt;, and
-  &lt;b&gt;Unilever&lt;/b&gt;, Harry is an award-winning Consultant Front-end Architect who
-  helps organisations and teams across the globe to plan, build, and maintain
-  product-scale UIs.
+  With a client list including &lt;b&gt;Google&lt;/b&gt;, &lt;b&gt;Unilever&lt;/b&gt;,
+  and the &lt;b&gt;United Nations&lt;/b&gt;, Harry is an award-winning Consultant
+  Front-end Architect who helps organisations and teams across the globe to
+  plan, build, and maintain product-scale UIs.
 &lt;/p&gt;
 
 &lt;p&gt;
