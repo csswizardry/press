@@ -22,26 +22,28 @@ Use this bio for profiles at conferences etc.
 
 ## HTML version
 
-<pre><code>&lt;p&gt;
+```HTML
+<p>
   Harry is an award-winning Consultant Performance Engineer from the UK. With
-  a client list ranging from the &lt;strong&gt;United Nations&lt;/strong&gt; to
-  &lt;strong&gt;Google&lt;/strong&gt;, the &lt;strong&gt;BBC&lt;/strong&gt; to
-  the &lt;strong&gt;&lt;em&gt;Financial Times&lt;/em&gt;&lt;/strong&gt;, he has
+  a client list ranging from the <strong>United Nations</strong> to
+  <strong>Google</strong>, the <strong>BBC</strong> to
+  the <strong><em>Financial Times</em></strong>, he has
   helped some of the world’s largest organisations make their websites faster.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;
+<p>
   He also holds positions as a
-  &lt;a href=&quot;https://developers.google.com/experts/people/harry-roberts&quot;&gt;Google
-  Developer Expert&lt;/a&gt;, where he shares web performance research and
+  <a href="https://developers.google.com/experts/people/harry-roberts">Google
+  Developer Expert</a>, where he shares web performance research and
   findings, and as Performance Ambassador for
-  &lt;a href=&quot;https://www.shiftcommerce.com/&quot;&gt;SHIFT Commerce&lt;/a&gt;,
+  <a href="https://www.shiftcommerce.com/">SHIFT Commerce</a>,
   where he aims to make ecommerce faster from the inside out.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;
+<p>
   He writes about all things front-end performance at
-  &lt;a href=&quot;https://csswizardry.com/&quot;&gt;csswizardry.com&lt;/a&gt;,
+  <a href="https://csswizardry.com/">csswizardry.com</a>,
   speaks at tech events all across the globe, and regularly shares his insights
-  at &lt;a href=&quot;https://twitter.com/csswizardry&quot;&gt;@csswizardry&lt;/a&gt;.
-&lt;/p&gt;</code></pre>
+  at <a href="https://twitter.com/csswizardry">@csswizardry</a>.
+</p>
+```
