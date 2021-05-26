@@ -4,9 +4,11 @@ Headshots and bios for interviews and conferences.
 
 ## Bio
 
-I have both [long](https://github.com/csswizardry/press/blob/master/bio-long.md)
-and [short](https://github.com/csswizardry/press/blob/master/bio-short.md) bios
-available.
+I have both
+[long](https://github.com/csswizardry/press/blob/master/bio.md#long-bio),
+[short](https://github.com/csswizardry/press/blob/master/bio.md#short-bio), and
+[one-line](https://github.com/csswizardry/press/blob/master/bio.md#one-liner)
+bios available.
 
 ## Photos
 
