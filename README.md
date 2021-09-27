@@ -14,9 +14,9 @@ Biographies and headshots for conferences and interviews.
 > consulted for clients from the United Nations to the BBC, General Electric to
 > the Financial Times, and a whole host more.
 >
-> When not doing work-work, he writes, teaches, and speaks about the entire
+> When not doing client work, he writes, teaches, and speaks about the entire
 > gamut of front-end performance. When not doing work at all, he’s probably out
-> riding his bike.
+> riding his bikes.
 
 ### Short Bio
 
