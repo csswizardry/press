@@ -16,7 +16,7 @@ Biographies and headshots for conferences and interviews.
 >
 > When not doing client work, he writes, teaches, and speaks about the entire
 > gamut of front-end performance. When not doing work at all, he’s probably out
-> riding his bikes.
+> on his bike.
 
 ### Short Bio
 
