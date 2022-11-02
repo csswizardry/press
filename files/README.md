@@ -6,6 +6,7 @@ too large to be used as-is.
 ## Digital Labin 2019
 
 ![](./digital-labin-2019.jpg)
+— By [Marin Cuk Vurnek EVENTography](https://www.facebook.com/mcveventography/)
 
 * [Original](./digital-labin-2019_unoptimised.jpg)
 * [Optimised](./digital-labin-2019.jpg)
@@ -14,6 +15,7 @@ too large to be used as-is.
 ## Digital Labin 2022
 
 ![](./digital-labin-2022.jpg)
+— By [Ivica Džambo](https://www.instagram.com/dzambofilm/)
 
 * [Original](./digital-labin-2022_unoptimised.jpg)
 * [Optimised](./digital-labin-2022.jpg)
